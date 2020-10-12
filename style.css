@@ -5,6 +5,17 @@ html {
   height: 100%; 
 }
 
+#mc_embed_signup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#mc-embedded-subscribe {
+  margin: 1em;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
 }
